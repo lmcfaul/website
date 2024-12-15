@@ -1,5 +1,15 @@
 ---
-title: "Brand"
+title: "Luke McFaul"
+subtitle: "Student"
+image: image.jpg
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 70%
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lmcfaul
 format:
   html: 
     other-links:
@@ -16,7 +26,7 @@ format:
 
 ## Overview
 
-This is a document themed using [**brand.yml**](https://posit-dev.github.io/brand-yml/)
+Luke McFaul is a Stanford student majoring in Earth Systems with a focus on human environmental systems. His academic and professional interests center on energy policy, particularly in creating strategies to decarbonize the energy grid while minimizing costs to consumers. Luke is also interested in learning data science, and applying data analysis to environmental problems.
 
 ::: {.content-visible when-format="html:js"}
 
