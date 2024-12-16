@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Luke McFaul"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Blog"
+        href: blog.html
+      - text: "Links"
+        href: links.html
+    tools:
+      - icon: github
+        href: https://github.com/stanford-brand-yml/quarto-branded-website
+
+format:
+  html:
+    toc: true
+    theme:
+      - brand
+
+# Use the brand file for all documents in the project
+brand: _brand.yml

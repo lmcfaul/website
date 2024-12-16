@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "baeafc26",
+    "index.typ": "6ebbde69",
+    "index-revealjs.html": "05857792",
+    "index-dashboard.html": "67843443"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "f8344628"
+  },
+  "blog.qmd": {
+    "blog.html": "fedfa78a"
+  },
+  "links.qmd": {
+    "links.html": "d120a7c0"
+  }
+}
