@@ -10,18 +10,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/lmcfaul
-format:
-  html: 
-    other-links:
-      - href: dashboard.qmd
-        icon: speedometer
-        text: Dashboard
-  typst: 
-    output-file: index-typst.pdf
-  revealjs:
-    output-file: index-revealjs.html
-  dashboard: 
-    output-file: index-dashboard.html
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/luke-mcfaul-68593324a/
+    - icon: mail
+      text: Email
+      href: mailto:lmcfaul@stanford.edu
+
+
 ---
 
 ## Overview
@@ -29,22 +25,3 @@ format:
 Luke McFaul is a Stanford student majoring in Earth Systems with a focus on human environmental systems. His academic and professional interests center on energy policy, particularly in creating strategies to decarbonize the energy grid while minimizing costs to consumers. Luke is also interested in learning data science, and applying data analysis to environmental problems.
 
 ::: {.content-visible when-format="html:js"}
-
-## Mermaid Diagram
-
-The following is a Mermaid diagram with branding applied:
-```{mermaid}
-%%| echo: false
-%%| fig-align: center
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-:::
-
-## Subheading
-
-{{< lipsum 1 >}}
